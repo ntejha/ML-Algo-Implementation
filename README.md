@@ -6,6 +6,6 @@ Just simple implentation of explaination
 
 | Algorithm Title       | Link to Implementation                               |
 | :-------------------- | :--------------------------------------------------- |
-| Conditional Random Fields (CRF) | [crf-algo-implementation.ipynb](crf-algo-implementation.ipynb) |
+| Conditional Random Fields (CRF) | [crf algo implementation](/home/ntejha/Projects/ML-Algo-Implementation/crf-algo-implentation.ipynb) |
 
 ---
